@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uzairzaini | Aspiring Cloud Engineer & DevOps Practitioner
+- 👋 Hi, I’m @uzairzaini | Cloud Engineer & DevOps Practitioner
 - 🚓 Background in Law Enforcement | Mid Career Switcher into Tech
 - 👀 I’m interested in Cloud Computing | DevOps | Cybersecurity | All things Tech!
 - 🌱 I’m currently learning  Python | Microsoft Azure | Ansible | Terraform | Docker | Jenkins | Kubernetes |  
